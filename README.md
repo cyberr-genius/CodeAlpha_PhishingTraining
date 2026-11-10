@@ -4,6 +4,7 @@ A short awareness presentation that teacheshow to recognize phishing emails and 
 
 
 Objectives
+
 Explain what phishing is and why it works
 
 Show how to recognize phishing emails and fake websites
